@@ -23,16 +23,16 @@ export const Dogs = [
     {
         name: 'Chip',
         href: '/dylan',
-        description: 'idk',
+        description: 'Chipolata sausage puppy',
         emoji: '🌭',
         mainImage: '/img/dylan/3.jpg',
         features: [
-            { name: 'Full name', description: 'idk' },
+            { name: 'Full name', description: 'Chip' },
             { name: 'Breed', description: 'Sausage Dog' },
             { name: 'Owner', description: 'Dylan' },
-            { name: 'Colour', description: 'idk' },
-            { name: 'Likes', description: 'idk' },
-            { name: 'Dislikes', description: 'idk' }
+            { name: 'Colour', description: 'Chocolate' },
+            { name: 'Likes', description: 'Destroying toys' },
+            { name: 'Dislikes', description: 'The postman' }
         ],
         images: [
             '/img/dylan/1.jpg',
