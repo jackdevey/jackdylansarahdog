@@ -48,12 +48,12 @@ export const Dogs = [
         emoji: '😎',
         mainImage: '/img/sarah/3.jpg',
         features: [
-            { name: 'Full name', description: 'idk' },
+            { name: 'Full name', description: 'regginald' },
             { name: 'Breed', description: 'Shih Tzu' },
             { name: 'Owner', description: 'Sarah' },
-            { name: 'Colour', description: 'idk' },
-            { name: 'Likes', description: 'idk' },
-            { name: 'Dislikes', description: 'idk' }
+            { name: 'Colour', description: 'white and brown and black ' },
+            { name: 'Likes', description: 'being alone' },
+            { name: 'Dislikes', description: 'cats' }
         ],
         images: [
             '/img/sarah/1.jpg',
@@ -69,12 +69,12 @@ export const Dogs = [
         emoji: '💤',
         mainImage: '/img/cammy/1.jpg',
         features: [
-            { name: 'Full name', description: 'idk' },
+            { name: 'Full name', description: 'Grand high jasper the 14th of Buckinghamshire' },
             { name: 'Breed', description: 'Cockapoo' },
             { name: 'Owner', description: 'Cammy' },
-            { name: 'Colour', description: 'idk' },
-            { name: 'Likes', description: 'idk' },
-            { name: 'Dislikes', description: 'idk' }
+            { name: 'Colour', description: 'latte ' },
+            { name: 'Likes', description: 'blood of infants' },
+            { name: 'Dislikes', description: 'life' }
         ],
         images: [
             '/img/cammy/1.jpg',
