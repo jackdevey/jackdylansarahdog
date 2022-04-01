@@ -7,7 +7,7 @@ export default function Footer() {
                 <div className="container mt-5 border-t border-gray-300 pl-3 pr-3">
                     <div className="text-left py-3">
                         <p className="mt-3 text-sm text-gray-500">
-                            © {new Date().getFullYear()} <b>jack devey</b>, licensed under <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GPL-3.0</a>
+                            © {new Date().getFullYear()} <b>jack devey</b>, <b>sarah cantrill</b> & <b>dylan hitchen</b> + <b>cammy</b> licensed under <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GPL-3.0</a>
                         </p>
                     </div>
                 </div>
